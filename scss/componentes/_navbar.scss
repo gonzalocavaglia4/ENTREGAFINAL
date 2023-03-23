@@ -1,0 +1,12 @@
+img{
+    width: 140px;
+}
+.navstyle{
+    
+    border: map-get($diseno, bordes ) ;
+    background-color: $color2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: $fsize*2 ;
+ text-decoration-line: underline;
+}
+

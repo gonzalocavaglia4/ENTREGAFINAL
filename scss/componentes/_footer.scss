@@ -1,0 +1,17 @@
+footer div {
+    ul {
+      li { list-style-type: none;
+        a {
+          text-decoration: none;
+          color: black;
+        }
+      }
+    }
+  }
+  
+  .miFooter{
+    padding:map-get($diseno , pad-footer );
+    border: map-get($diseno , bordes ) ;
+    text-align: center;
+    
+}

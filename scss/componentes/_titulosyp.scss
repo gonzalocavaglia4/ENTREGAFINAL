@@ -1,0 +1,25 @@
+.formath{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: nth( $fontsize, 2);
+
+}
+
+.formatp{
+    text-align: center;
+    margin-left: 16px;
+    margin-right: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-size: nth( $fontsize, 1);
+}
+ 
+.parrafocontacto{
+    font-size:30px ;
+}
+
+
+
