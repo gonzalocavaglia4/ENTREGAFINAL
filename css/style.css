@@ -57,11 +57,18 @@ li img {
   margin: 0 auto;
 }
 
+.wsp {
+  width: 50px;
+  height: 40px;
+}
+
 .formath {
   text-align: center;
   padding-top: 30px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 35px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .formatp {
@@ -103,6 +110,17 @@ footer div ul li a {
 .cartas {
   background-color: rgb(207, 194, 153);
   margin-bottom: 30px;
+}
+
+.estilocarta {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 /*# sourceMappingURL=style.css.map */
